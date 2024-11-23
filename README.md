@@ -111,11 +111,12 @@ Hi, I’m **Shashank Vaibhav**, a passionate developer specializing in **XR Deve
 ---
 
 ## 📸 Visual Showcase  
-![Feature 1](https://via.placeholder.com/200)  
-![Feature 2](https://via.placeholder.com/200)  
-![Feature 3](https://via.placeholder.com/200)  
-![Feature 4](https://via.placeholder.com/200)
-
+<p align="center">
+  <img src="https://via.placeholder.com/200" alt="Feature 1" width="200">
+  <img src="https://via.placeholder.com/200" alt="Feature 2" width="200">
+  <img src="https://via.placeholder.com/200" alt="Feature 3" width="200">
+  <img src="https://via.placeholder.com/200" alt="Feature 4" width="200">
+</p>
 ---
 
 ## 🔧 Workflow & Challenges  
