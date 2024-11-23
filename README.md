@@ -1,4 +1,4 @@
-![Banner](https://github.com/Shashank-Vaibhav/Shashank-Vaibhav/blob/8398f9f9d809a2711ad096faa33e0278f6c8f3e6/github_pic.gif)
+![Banner](https://github.com/Shashank-Vaibhav/Shashank-Vaibhav/blob/9086447756c319fc0942f252709fcdcfe9808e37/Assets/github_pic.gif)
 # 🌟 Shashank Vaibhav | XR Developer 
 **Student @ IIT Roorkee_**
 <br>
@@ -86,19 +86,47 @@ Hi, I’m **Shashank Vaibhav**, a passionate developer specializing in **XR Deve
 
 ---
 
-### 🌍 Seismic-XR: Simulating and Visualizing Seismic Ground Motions in Mixed Reality
+# 🌍 Seismic-XR: Simulating and Visualizing Seismic Ground Motions in Mixed Reality  
 > A **Mixed Reality** project simulating seismic wave propagation using **SPECFEM3D** and visualizing ground motions with **Unity** and **Meta Quest**.
 
-#### ✨ Features:
-- **High-Resolution Terrain Models**: Built from **USGS** and **SRTM** data for accurate 3D topography.
-- **Seismic Wave Propagation**: Visualized in real-time using **SPECFEM3D**.
-- **Immersive Mixed Reality**: Interactive seismic simulations within a VR environment.
+---
 
-#### 🔧 Workflow & Challenges:
-- **Terrain Modeling**: Optimized meshes for high-resolution terrain, balancing performance and visual fidelity.
-- **VR Performance**: Implemented level-of-detail (LOD) techniques and baked lighting for smooth VR interactions.
+## ✨ Features  
+### 🚀 **High-Resolution Terrain Models**  
+- Built using **USGS** and **SRTM** data for precise 3D topography.  
+- Optimized meshes ensure realistic terrain with balanced performance and visual fidelity.
 
-[Explore the Seismic-XR Repo](#)
+### 🌊 **Seismic Wave Propagation**  
+- Real-time simulation of seismic wave propagation powered by **SPECFEM3D**.  
+- Includes realistic fault slip and stress dynamics visualizations.
+
+### 🕶️ **Immersive Mixed Reality Experience**  
+- Dive into interactive seismic simulations using **Meta Quest** for a hands-on learning experience.  
+- **XR Interaction Toolkit 3.0** integration for intuitive navigation and exploration.
+
+### ⚡ **MR-Ready Performance**  
+- Enhanced VR experience with **LOD (Level of Detail)** techniques and baked lighting.  
+- Smooth rendering ensures seamless interactions in the virtual environment.
+
+---
+
+## 📸 Visual Showcase  
+<p align="center">
+  <img src="https://via.placeholder.com/200" alt="Feature 1" width="200">
+  <img src="https://via.placeholder.com/200" alt="Feature 2" width="200">
+  <img src="https://via.placeholder.com/200" alt="Feature 3" width="200">
+  <img src="https://via.placeholder.com/200" alt="Feature 4" width="200">
+</p>
+---
+
+## 🔧 Workflow & Challenges  
+- **Terrain Modeling**: Developed high-resolution, optimized 3D terrain models, balancing performance and visual fidelity.  
+- **Seismic Data Integration**: Imported seismic wave simulation data from **SPECFEM3D** for accurate visualizations.  
+
+---
+
+## 🔗 Explore the Repository  
+[![GitHub](https://img.shields.io/badge/GitHub-Explore%20Seismic--XR-blue?style=for-the-badge&logo=github)](https://github.com/Shashank-Vaibhav/SeismicXR)
 
 ---
 
@@ -113,7 +141,7 @@ I’m passionate about combining XR technology with filmmaking to craft immersiv
 **IIT Roorkee Timelapse**
 
 <a href="https://www.youtube.com/watch?v=HrcwqG5hY3o">
-  <img src="https://github.com/Shashank-Vaibhav/Shashank-Vaibhav/blob/9d06df5b73bb99ff0ed05b6a25c637aae0b1b7bc/gifThumbnail.gif" alt="IIT Roorkee Timelapse" width="320" height="180" style="border-radius: 15px; border: 2px solid #FF8800;">
+  <img src="https://github.com/Shashank-Vaibhav/Shashank-Vaibhav/blob/9086447756c319fc0942f252709fcdcfe9808e37/Assets/gifThumbnail.gif" alt="IIT Roorkee Timelapse" width="320" height="180" style="border-radius: 15px; border: 2px solid #FF8800;">
 </a>  
 
 
@@ -129,11 +157,11 @@ I also explore the creative side of XR technology through **3D animation and mod
 
 
 <p>
-  <a href="https://github.com/Shashank-Vaibhav/Shashank-Vaibhav/blob/50220456440f329cc6723091daab99882d32837f/comp12.png" target="_blank">
-    <img src="https://github.com/Shashank-Vaibhav/Shashank-Vaibhav/blob/50220456440f329cc6723091daab99882d32837f/comp12.png" alt="3D Artwork 1" width="200" style="margin: 0 64px 40px 0;">
+  <a href="https://github.com/Shashank-Vaibhav/Shashank-Vaibhav/blob/0f21d84b34c7bb736d12083bc35daa58a7332757/Assets/BlenderAni/swordSeq1.gif" target="_blank">
+    <img src="https://github.com/Shashank-Vaibhav/Shashank-Vaibhav/blob/0f21d84b34c7bb736d12083bc35daa58a7332757/Assets/BlenderAni/swordSeq1.gif" alt="3D Artwork 1" width="200" style="margin: 0 64px 40px 0;">
   </a>
-  <a href="https://github.com/Shashank-Vaibhav/Shashank-Vaibhav/blob/50220456440f329cc6723091daab99882d32837f/comp13.png" target="_blank">
-    <img src="https://github.com/Shashank-Vaibhav/Shashank-Vaibhav/blob/50220456440f329cc6723091daab99882d32837f/comp13.png" alt="3D Artwork 2" width="200" style="margin: 0 64px 40px 0;">
+  <a href="https://github.com/Shashank-Vaibhav/Shashank-Vaibhav/blob/0f21d84b34c7bb736d12083bc35daa58a7332757/Assets/BlenderAni/swordSeq2.gif" target="_blank">
+    <img src="https://github.com/Shashank-Vaibhav/Shashank-Vaibhav/blob/0f21d84b34c7bb736d12083bc35daa58a7332757/Assets/BlenderAni/swordSeq2.gif" alt="3D Artwork 2" width="200" style="margin: 0 64px 40px 0;">
   </a>
   <a href="https://github.com/Shashank-Vaibhav/Shashank-Vaibhav/blob/50220456440f329cc6723091daab99882d32837f/comp15.png" target="_blank">
     <img src="https://github.com/Shashank-Vaibhav/Shashank-Vaibhav/blob/50220456440f329cc6723091daab99882d32837f/comp15.png" alt="3D Artwork 3" width="200" style="margin: 0 64px 40px 0;">
