@@ -1,4 +1,4 @@
-![Banner](https://github.com/Shashank-Vaibhav/Shashank-Vaibhav/blob/8398f9f9d809a2711ad096faa33e0278f6c8f3e6/github_pic.gif)
+![Banner](https://github.com/Shashank-Vaibhav/Shashank-Vaibhav/blob/9086447756c319fc0942f252709fcdcfe9808e37/Assets/github_pic.gif)
 # 🌟 Shashank Vaibhav | XR Developer 
 **Student @ IIT Roorkee_**
 <br>
@@ -113,7 +113,7 @@ I’m passionate about combining XR technology with filmmaking to craft immersiv
 **IIT Roorkee Timelapse**
 
 <a href="https://www.youtube.com/watch?v=HrcwqG5hY3o">
-  <img src="https://github.com/Shashank-Vaibhav/Shashank-Vaibhav/blob/9d06df5b73bb99ff0ed05b6a25c637aae0b1b7bc/gifThumbnail.gif" alt="IIT Roorkee Timelapse" width="320" height="180" style="border-radius: 15px; border: 2px solid #FF8800;">
+  <img src="https://github.com/Shashank-Vaibhav/Shashank-Vaibhav/blob/9086447756c319fc0942f252709fcdcfe9808e37/Assets/gifThumbnail.gif" alt="IIT Roorkee Timelapse" width="320" height="180" style="border-radius: 15px; border: 2px solid #FF8800;">
 </a>  
 
 
