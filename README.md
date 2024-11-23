@@ -86,19 +86,46 @@ Hi, I’m **Shashank Vaibhav**, a passionate developer specializing in **XR Deve
 
 ---
 
-### 🌍 Seismic-XR: Simulating and Visualizing Seismic Ground Motions in Mixed Reality
+# 🌍 Seismic-XR: Simulating and Visualizing Seismic Ground Motions in Mixed Reality  
 > A **Mixed Reality** project simulating seismic wave propagation using **SPECFEM3D** and visualizing ground motions with **Unity** and **Meta Quest**.
 
-#### ✨ Features:
-- **High-Resolution Terrain Models**: Built from **USGS** and **SRTM** data for accurate 3D topography.
-- **Seismic Wave Propagation**: Visualized in real-time using **SPECFEM3D**.
-- **Immersive Mixed Reality**: Interactive seismic simulations within a VR environment.
+---
 
-#### 🔧 Workflow & Challenges:
-- **Terrain Modeling**: Optimized meshes for high-resolution terrain, balancing performance and visual fidelity.
-- **VR Performance**: Implemented level-of-detail (LOD) techniques and baked lighting for smooth VR interactions.
+## ✨ Features  
+### 🚀 **High-Resolution Terrain Models**  
+- Built using **USGS** and **SRTM** data for precise 3D topography.  
+- Optimized meshes ensure realistic terrain with balanced performance and visual fidelity.
 
-[Explore the Seismic-XR Repo](#)
+### 🌊 **Seismic Wave Propagation**  
+- Real-time simulation of seismic wave propagation powered by **SPECFEM3D**.  
+- Includes realistic fault slip and stress dynamics visualizations.
+
+### 🕶️ **Immersive Mixed Reality Experience**  
+- Dive into interactive seismic simulations using **Meta Quest** for a hands-on learning experience.  
+- **XR Interaction Toolkit 3.0** integration for intuitive navigation and exploration.
+
+### ⚡ **MR-Ready Performance**  
+- Enhanced VR experience with **LOD (Level of Detail)** techniques and baked lighting.  
+- Smooth rendering ensures seamless interactions in the virtual environment.
+
+---
+
+## 📸 Visual Showcase  
+![Feature 1](https://via.placeholder.com/200)  
+![Feature 2](https://via.placeholder.com/200)  
+![Feature 3](https://via.placeholder.com/200)  
+![Feature 4](https://via.placeholder.com/200)
+
+---
+
+## 🔧 Workflow & Challenges  
+- **Terrain Modeling**: Developed high-resolution, optimized 3D terrain models, balancing performance and visual fidelity.  
+- **Seismic Data Integration**: Imported seismic wave simulation data from **SPECFEM3D** for accurate visualizations.  
+
+---
+
+## 🔗 Explore the Repository  
+[![GitHub](https://img.shields.io/badge/GitHub-Explore%20Seismic--XR-blue?style=for-the-badge&logo=github)](https://github.com/Shashank-Vaibhav/SeismicXR)
 
 ---
 
