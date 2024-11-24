@@ -57,9 +57,7 @@ Hi, I’m Shashank Vaibhav, a passionate developer specializing in **XR Developm
 <details>
   <summary>🛤️ My Dev Journey </summary>
 
-## About Me
-
-My journey into the world of creative technology began with a fascination for how technologies like **VFX**, **3D Animation**, and the outstanding graphics in games provide hyper-realistic experiences. In high school, I explored **Blender** and quickly developed a passion for **3D Digital Content**, including animation and VFX. This led me to dive into tools like **After Effects** for VFX, **Premiere Pro** for editing, and **Unity** and **Unreal Engine** for game design and development.
+  My journey into the world of creative technology began with a fascination for how technologies like **VFX**, **3D Animation**, and the outstanding graphics in games provide hyper-realistic experiences. In high school, I explored **Blender** and quickly developed a passion for **3D Digital Content**, including animation and VFX. This led me to dive into tools like **After Effects** for VFX, **Premiere Pro** for editing, and **Unity** and **Unreal Engine** for game design and development.
 
 My curiosity grew when I discovered **AR/VR/MR technologies** through **Microsoft HoloLens**, sparking a deep interest in immersive experiences. As I delved deeper into programming languages in college, I became captivated by the vast potential of **Augmented, Virtual, and Mixed Reality**. This inspired me to build projects that integrate cutting-edge technology with creativity.
 
