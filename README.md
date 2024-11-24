@@ -153,36 +153,26 @@ I also explore the creative side of XR technology through **3D animation and mod
 
 <p>
   <a href="https://github.com/Shashank-Vaibhav/Shashank-Vaibhav/blob/0f21d84b34c7bb736d12083bc35daa58a7332757/Assets/BlenderAni/swordSeq1.gif" target="_blank">
-    <img src="https://github.com/Shashank-Vaibhav/Shashank-Vaibhav/blob/0f21d84b34c7bb736d12083bc35daa58a7332757/Assets/BlenderAni/swordSeq1.gif" alt="3D Artwork 1" width="200" style="margin: 0 64px 40px 0;">
+    <img src="https://github.com/Shashank-Vaibhav/Shashank-Vaibhav/blob/0f21d84b34c7bb736d12083bc35daa58a7332757/Assets/BlenderAni/swordSeq1.gif" alt="3D Artwork 1" height="200" style="margin: 0 64px 40px 0;">
   </a>
   <a href="https://github.com/Shashank-Vaibhav/Shashank-Vaibhav/blob/0f21d84b34c7bb736d12083bc35daa58a7332757/Assets/BlenderAni/swordSeq2.gif" target="_blank">
-    <img src="https://github.com/Shashank-Vaibhav/Shashank-Vaibhav/blob/0f21d84b34c7bb736d12083bc35daa58a7332757/Assets/BlenderAni/swordSeq2.gif" alt="3D Artwork 2" width="200" style="margin: 0 64px 40px 0;">
+    <img src="https://github.com/Shashank-Vaibhav/Shashank-Vaibhav/blob/0f21d84b34c7bb736d12083bc35daa58a7332757/Assets/BlenderAni/swordSeq2.gif" alt="3D Artwork 2" height="200" style="margin: 0 64px 40px 0;">
   </a>
-  <a href="https://github.com/Shashank-Vaibhav/Shashank-Vaibhav/blob/50220456440f329cc6723091daab99882d32837f/comp15.png" target="_blank">
-    <img src="https://github.com/Shashank-Vaibhav/Shashank-Vaibhav/blob/50220456440f329cc6723091daab99882d32837f/comp15.png" alt="3D Artwork 3" width="200" style="margin: 0 64px 40px 0;">
+  <a href="https://github.com/Shashank-Vaibhav/Shashank-Vaibhav/blob/903271e5445a3693a89b12c2c0e897b37956d71e/Assets/BlenderAni/comp12.png" target="_blank">
+    <img src="https://github.com/Shashank-Vaibhav/Shashank-Vaibhav/blob/903271e5445a3693a89b12c2c0e897b37956d71e/Assets/BlenderAni/comp12.png" alt="3D Artwork 3" height="200" style="margin: 0 64px 40px 0;">
   </a>
-  <a href="https://github.com/Shashank-Vaibhav/Shashank-Vaibhav/blob/50220456440f329cc6723091daab99882d32837f/comp5.png" target="_blank">
-    <img src="https://github.com/Shashank-Vaibhav/Shashank-Vaibhav/blob/50220456440f329cc6723091daab99882d32837f/comp5.png" alt="3D Artwork 4" width="200">
+  <a href="https://github.com/Shashank-Vaibhav/Shashank-Vaibhav/blob/903271e5445a3693a89b12c2c0e897b37956d71e/Assets/BlenderAni/comp5.png" target="_blank">
+    <img src="https://github.com/Shashank-Vaibhav/Shashank-Vaibhav/blob/903271e5445a3693a89b12c2c0e897b37956d71e/Assets/BlenderAni/comp5.png" alt="3D Artwork 4" height ="200">
   </a>
 </p>
-
 
 **Blender Animation**
-<p>
-  <a href="https://youtube.com/shorts/QEGklzIzVD0" target="_blank">
-    <img src="https://github.com/Shashank-Vaibhav/Shashank-Vaibhav/blob/292825d149316211b101185332df0e5a5af07e2c/final_gif1.gif" alt="Final Cinematic Animation" width="100" height="180" style="border-radius: 16px; border: 2px solid #FF8800; margin: 0 32px 20px 0;">
-  </a>
-  <a href="https://youtube.com/shorts/r7Urw6axd_E?feature=share" target="_blank">
-    <img src="https://github.com/Shashank-Vaibhav/Shashank-Vaibhav/blob/dafe6912a521d06a1b2cc43c1d9b3e221aff2d80/swordSeq1.gif" alt="Sword Sequence 1" width="100" height="180" style="border-radius: 16px; border: 2px solid #FF8800; margin: 0 32px 20px 0;">
-  </a>
-  <a href="https://youtube.com/shorts/rWQBHMZuzCk?feature=share" target="_blank">
-    <img src="https://github.com/Shashank-Vaibhav/Shashank-Vaibhav/blob/67954422c1ea8f2b7637a9f9bcebbfb718518c4f/swordSeq2.gif" alt="Sword Sequence 2" width="100" height="180" style="border-radius: 16px; border: 2px solid #FF8800;">
-  </a>
-</p>
 
 ---
 
 ## 📬 Let’s Connect!
 
 I’m always looking to collaborate on **innovative XR projects** or exciting opportunities. Feel free to reach out!
+
+
 Made with ❤️ by **Shashank Vaibhav**
