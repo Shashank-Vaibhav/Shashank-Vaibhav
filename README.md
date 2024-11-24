@@ -112,11 +112,21 @@ Hi, I’m **Shashank Vaibhav**, a passionate developer specializing in **XR Deve
 
 ## 📸 Visual Showcase  
 <p align="center">
-  <img src="https://via.placeholder.com/200" alt="Feature 1" width="200">
-  <img src="https://via.placeholder.com/200" alt="Feature 2" width="200">
-  <img src="https://via.placeholder.com/200" alt="Feature 3" width="200">
-  <img src="https://via.placeholder.com/200" alt="Feature 4" width="200">
+  <img src="https://via.placeholder.com/200" alt="Feature 1" width="384" height="216">
+  <img src="https://via.placeholder.com/200" alt="Feature 2" width="384" height="216">
+  <img src="https://via.placeholder.com/200" alt="Feature 3" width="384" height = "216">
+  <img src="https://via.placeholder.com/200" alt="Feature 4" width="384" height = "216">
 </p>
+
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=HrcwqG5hY3o)
+
+
+<a href="https://youtu.be/aJrw8ewi298?feature=shared">
+  <img src="https://github.com/Shashank-Vaibhav/Shashank-Vaibhav/blob/4b55c0342a033489c12c53bc7986d91165058d99/Assets/ResizedGifs2/1.gif" alt="SeismicXR" width="384" height="216" style="border-radius: 15px; border: 2px solid #FF8800;">
+</a>  
+
+
+**Click the image to watch it!**
 ---
 
 ## 🔧 Workflow & Challenges  
