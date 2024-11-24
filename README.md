@@ -13,9 +13,11 @@
 
 ## 🚀 About Me
 
-Hi, I’m **Shashank Vaibhav**, a passionate developer specializing in **XR Development, XR Filmmaking**, and **Mixed Reality Technologies**. My expertise covers a broad spectrum, from **real-time multiplayer systems** to **immersive geophysical simulations**, leveraging technologies like **Unity**, **Unreal Engine**.
 
-> “I love blending immersive technology with complex simulations to create experiences that push boundaries in education, research, and entertainment.”
+Hi, I’m Shashank Vaibhav, a passionate developer specializing in **XR Development** and **Mixed Reality** Technologies. My interests span a wide range of creative and technical domains, including **VR/MR** application development using **Unity**, **3D animation and modeling**, XR filmmaking and Simulations. I leverage cutting-edge technologies such as **Unity**, **Unreal Engine**, and **Blender** to bring immersive experiences to life.
+
+> 
+"I am passionate about solving complex problems in the field of Spatial Computing, creating innovative experiences that redefine boundaries in education, gaming, and entertainment."
 
 ---
 
@@ -55,13 +57,18 @@ Hi, I’m **Shashank Vaibhav**, a passionate developer specializing in **XR Deve
 <details>
   <summary>🛤️ My Dev Journey </summary>
 
-  My journey into the world of coding began with a fascination for how technology shapes our everyday lives. Starting with **C++** in high school, I quickly developed a passion for solving problems through code. As I explored different programming languages and tools, I became captivated by the immersive possibilities of **AR/VR/MR** development, leading me to build projects that blend cutting-edge technology with creativity.
+## About Me
 
-  Over the years, I've gained hands-on experience across multiple domains, including **Game Development**, **Seismic Modeling**, and **Mixed Reality**. My coding journey has taken me through various challenges, from optimizing **Unity** multiplayer experiences to simulating seismic data in **3D environments**.
+My journey into the world of creative technology began with a fascination for how technologies like **VFX**, **3D Animation**, and the outstanding graphics in games provide hyper-realistic experiences. In high school, I explored **Blender** and quickly developed a passion for **3D Digital Content**, including animation and VFX. This led me to dive into tools like **After Effects** for VFX, **Premiere Pro** for editing, and **Unity** and **Unreal Engine** for game design and development.
 
-  What drives me is the thrill of solving complex problems and pushing the boundaries of interactive technology. Whether working on **real-time multiplayer systems**, developing **immersive simulations**, or exploring the intersections of **data and design**, I remain passionate about creating innovative solutions and learning new technologies.
+My curiosity grew when I discovered **AR/VR/MR technologies** through **Microsoft HoloLens**, sparking a deep interest in immersive experiences. As I delved deeper into programming languages in college, I became captivated by the vast potential of **Augmented, Virtual, and Mixed Reality**. This inspired me to build projects that integrate cutting-edge technology with creativity.
 
-  This journey is ongoing, and I'm excited to continue exploring and building projects that can make a tangible impact in the tech space. 🚀
+Over the years, I’ve gained hands-on experience across diverse domains such as **Game Development**, **Seismic Modeling**, **Mixed Reality** and **Product Design**. My development journey has brought me through various challenges, including optimizing **Unity multiplayer experiences** and simulating **seismic data** in **3D environments**.
+
+What drives me is the thrill of solving complex problems and pushing the boundaries of interactive technology. Whether I’m working on **real-time multiplayer systems**, developing **immersive simulations**, or exploring the intersection of **development and design**, my passion lies in creating innovative solutions and mastering new technologies.
+
+This journey is ongoing, and I’m excited to continue building projects that make a tangible impact in the tech space. 🚀
+
 
 </details>
 
