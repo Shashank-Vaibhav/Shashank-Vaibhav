@@ -127,12 +127,6 @@ Hi, I’m **Shashank Vaibhav**, a passionate developer specializing in **XR Deve
 
 ---
 
-#### 🔧 **Workflow & Challenges**  
-- **Terrain Modeling**: Engineered high-resolution terrain models with a focus on balancing performance and fidelity.  
-- **Seismic Data Integration**: Seamlessly imported seismic simulation outputs from **SPECFEM3D** for precise visualizations.  
-- **Optimization**: Tackled VR hardware limitations with advanced rendering techniques and mesh simplification.  
-
----
 
 #### 🔗 **Explore the Repository**  
 [![GitHub](https://img.shields.io/badge/GitHub-Explore%20Seismic--XR-blue?style=for-the-badge&logo=github)](https://github.com/Shashank-Vaibhav/SeismicXR)
