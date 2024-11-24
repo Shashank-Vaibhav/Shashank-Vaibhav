@@ -112,10 +112,10 @@ Hi, I’m **Shashank Vaibhav**, a passionate developer specializing in **XR Deve
 
 ## 📸 Visual Showcase  
 <p align="center">
-  <img src="https://via.placeholder.com/200" alt="Feature 1" width="384" height="216">
-  <img src="https://via.placeholder.com/200" alt="Feature 2" width="384" height="216">
-  <img src="https://via.placeholder.com/200" alt="Feature 3" width="384" height = "216">
-  <img src="https://via.placeholder.com/200" alt="Feature 4" width="384" height = "216">
+  <img src="https://github.com/Shashank-Vaibhav/Shashank-Vaibhav/blob/7b1bcf9e9d8a78dfe983751a3488c85c6324156d/Assets/ResizedGifs2/2.gif" alt="Feature 1" width="384" height="216">
+  <img src="https://github.com/Shashank-Vaibhav/Shashank-Vaibhav/blob/7b1bcf9e9d8a78dfe983751a3488c85c6324156d/Assets/ResizedGifs2/3.gif" alt="Feature 2" width="384" height="216">
+  <img src="https://github.com/Shashank-Vaibhav/Shashank-Vaibhav/blob/7b1bcf9e9d8a78dfe983751a3488c85c6324156d/Assets/ResizedGifs2/4.gif" alt="Feature 3" width="384" height = "216">
+  <img src="https://github.com/Shashank-Vaibhav/Shashank-Vaibhav/blob/7b1bcf9e9d8a78dfe983751a3488c85c6324156d/Assets/ResizedGifs2/5.gif" alt="Feature 4" width="384" height = "216">
 </p>
 
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=HrcwqG5hY3o)
