@@ -55,18 +55,17 @@ Hi, I’m Shashank Vaibhav, a passionate developer specializing in **XR Developm
 ---
 
 <details>
-  <summary>🛤️ My Dev Journey </summary>
+  <summary>🛤️ My Development Journey</summary>
 
-  My journey into the world of creative technology began with a fascination for how technologies like **VFX**, **3D Animation**, and the outstanding graphics in games provide hyper-realistic experiences. In high school, I explored **Blender** and quickly developed a passion for **3D Digital Content**, including animation and VFX. This led me to dive into tools like **After Effects** for VFX, **Premiere Pro** for editing, and **Unity** and **Unreal Engine** for game design and development.
+  My journey into the world of creative technology began with a fascination for how **VFX**, **3D Animation**, and the stunning graphics in games create hyper-realistic experiences in Hollywood Movies. In high school, I explored **Blender**, which quickly ignited my passion for **3D Digital Content**—from animation and VFX to modeling. This led me to dive deeper into tools like **After Effects** for VFX, **Premiere Pro** for editing, and **Unity** and **Unreal Engine** for game design and development.
 
-My curiosity grew when I discovered **AR/VR/MR technologies** through **Microsoft HoloLens**, sparking a deep interest in immersive experiences. As I delved deeper into programming languages in college, I became captivated by the vast potential of **Augmented, Virtual, and Mixed Reality**. This inspired me to build projects that integrate cutting-edge technology with creativity.
+  My curiosity expanded when I encountered **AR/VR/MR technologies** through **Microsoft HoloLens**, sparking a profound interest in creating immersive experiences. As I explored programming languages in college, I was captivated by the vast potential of **Augmented, Virtual, and Mixed Reality** technologies. This drove me to build projects that merge cutting-edge technology with creativity.
 
-Over the years, I’ve gained hands-on experience across diverse domains such as **Game Development**, **Seismic Modeling**, **Mixed Reality** and **Product Design**. My development journey has brought me through various challenges, including optimizing **Unity multiplayer experiences** and simulating **seismic data** in **3D environments**.
+  Over the years, I’ve gained hands-on experience across various domains, including **Game Development**, **Seismic Modeling**, **Mixed Reality**, **Product Design**, **Video Editing**. My journey has brought numerous challenges, from optimizing **Unity multiplayer experiences** to simulating complex **seismic data** in **3D environments**.
 
-What drives me is the thrill of solving complex problems and pushing the boundaries of interactive technology. Whether I’m working on **real-time multiplayer systems**, developing **immersive simulations**, or exploring the intersection of **development and design**, my passion lies in creating innovative solutions and mastering new technologies.
+  What drives me is the excitement of solving complex problems and pushing the limits of interactive technology. Whether it's working on **real-time multiplayer systems**, developing **immersive simulations**, or exploring the intersection of **development and design**, I am passionate about crafting innovative solutions and continuously learning new technologies.
 
-This journey is ongoing, and I’m excited to continue building projects that make a tangible impact in the tech space. 🚀
-
+  This journey is ongoing, and I’m thrilled to continue building projects that leave a lasting impact in the tech world. 🚀
 
 </details>
 
