@@ -13,9 +13,11 @@
 
 ## 🚀 About Me
 
-Hi, I’m **Shashank Vaibhav**, a passionate developer specializing in **XR Development, XR Filmmaking**, and **Mixed Reality Technologies**. My expertise covers a broad spectrum, from **real-time multiplayer systems** to **immersive geophysical simulations**, leveraging technologies like **Unity**, **Unreal Engine**.
 
-> “I love blending immersive technology with complex simulations to create experiences that push boundaries in education, research, and entertainment.”
+Hi, I’m Shashank Vaibhav, a passionate developer specializing in **XR Development** and **Mixed Reality** Technologies. My interests span a wide range of creative and technical domains, including **VR/MR** application development using **Unity**, **3D animation and modeling**, XR filmmaking and Simulations. I leverage cutting-edge technologies such as **Unity**, **Unreal Engine**, and **Blender** to bring immersive experiences to life.
+
+> 
+"I am passionate about solving complex problems in the field of Spatial Computing, creating innovative experiences that redefine boundaries in education, gaming, and entertainment."
 
 ---
 
@@ -53,15 +55,17 @@ Hi, I’m **Shashank Vaibhav**, a passionate developer specializing in **XR Deve
 ---
 
 <details>
-  <summary>🛤️ My Dev Journey </summary>
+  <summary>🛤️ My Development Journey</summary>
 
-  My journey into the world of coding began with a fascination for how technology shapes our everyday lives. Starting with **C++** in high school, I quickly developed a passion for solving problems through code. As I explored different programming languages and tools, I became captivated by the immersive possibilities of **AR/VR/MR** development, leading me to build projects that blend cutting-edge technology with creativity.
+  My journey into the world of creative technology began with a fascination for how **VFX**, **3D Animation**, and the stunning graphics in games create hyper-realistic experiences in Hollywood Movies. In high school, I explored **Blender**, which quickly ignited my passion for **3D Digital Content**—from animation and VFX to modeling. This led me to dive deeper into tools like **After Effects** for VFX, **Premiere Pro** for editing, and **Unity** and **Unreal Engine** for game design and development.
 
-  Over the years, I've gained hands-on experience across multiple domains, including **Game Development**, **Seismic Modeling**, and **Mixed Reality**. My coding journey has taken me through various challenges, from optimizing **Unity** multiplayer experiences to simulating seismic data in **3D environments**.
+  My curiosity expanded when I encountered **AR/VR/MR technologies** through **Microsoft HoloLens**, sparking a profound interest in creating immersive experiences. As I explored programming languages in college, I was captivated by the vast potential of **Augmented, Virtual, and Mixed Reality** technologies. This drove me to build projects that merge cutting-edge technology with creativity.
 
-  What drives me is the thrill of solving complex problems and pushing the boundaries of interactive technology. Whether working on **real-time multiplayer systems**, developing **immersive simulations**, or exploring the intersections of **data and design**, I remain passionate about creating innovative solutions and learning new technologies.
+  Over the years, I’ve gained hands-on experience across various domains, including **Game Development**, **Seismic Modeling**, **Mixed Reality**, **Product Design**, **Video Editing**. My journey has brought numerous challenges, from optimizing **Unity multiplayer experiences** to simulating complex **seismic data** in **3D environments**.
 
-  This journey is ongoing, and I'm excited to continue exploring and building projects that can make a tangible impact in the tech space. 🚀
+  What drives me is the excitement of solving complex problems and pushing the limits of interactive technology. Whether it's working on **real-time multiplayer systems**, developing **immersive simulations**, or exploring the intersection of **development and design**, I am passionate about crafting innovative solutions and continuously learning new technologies.
+
+  This journey is ongoing, and I’m thrilled to continue building projects that leave a lasting impact in the tech world. 🚀
 
 </details>
 
@@ -149,36 +153,26 @@ I also explore the creative side of XR technology through **3D animation and mod
 
 <p>
   <a href="https://github.com/Shashank-Vaibhav/Shashank-Vaibhav/blob/0f21d84b34c7bb736d12083bc35daa58a7332757/Assets/BlenderAni/swordSeq1.gif" target="_blank">
-    <img src="https://github.com/Shashank-Vaibhav/Shashank-Vaibhav/blob/0f21d84b34c7bb736d12083bc35daa58a7332757/Assets/BlenderAni/swordSeq1.gif" alt="3D Artwork 1" width="200" style="margin: 0 64px 40px 0;">
+    <img src="https://github.com/Shashank-Vaibhav/Shashank-Vaibhav/blob/0f21d84b34c7bb736d12083bc35daa58a7332757/Assets/BlenderAni/swordSeq1.gif" alt="3D Artwork 1" height="200" style="margin: 0 64px 40px 0;">
   </a>
   <a href="https://github.com/Shashank-Vaibhav/Shashank-Vaibhav/blob/0f21d84b34c7bb736d12083bc35daa58a7332757/Assets/BlenderAni/swordSeq2.gif" target="_blank">
-    <img src="https://github.com/Shashank-Vaibhav/Shashank-Vaibhav/blob/0f21d84b34c7bb736d12083bc35daa58a7332757/Assets/BlenderAni/swordSeq2.gif" alt="3D Artwork 2" width="200" style="margin: 0 64px 40px 0;">
+    <img src="https://github.com/Shashank-Vaibhav/Shashank-Vaibhav/blob/0f21d84b34c7bb736d12083bc35daa58a7332757/Assets/BlenderAni/swordSeq2.gif" alt="3D Artwork 2" height="200" style="margin: 0 64px 40px 0;">
   </a>
-  <a href="https://github.com/Shashank-Vaibhav/Shashank-Vaibhav/blob/50220456440f329cc6723091daab99882d32837f/comp15.png" target="_blank">
-    <img src="https://github.com/Shashank-Vaibhav/Shashank-Vaibhav/blob/50220456440f329cc6723091daab99882d32837f/comp15.png" alt="3D Artwork 3" width="200" style="margin: 0 64px 40px 0;">
+  <a href="https://github.com/Shashank-Vaibhav/Shashank-Vaibhav/blob/903271e5445a3693a89b12c2c0e897b37956d71e/Assets/BlenderAni/comp12.png" target="_blank">
+    <img src="https://github.com/Shashank-Vaibhav/Shashank-Vaibhav/blob/903271e5445a3693a89b12c2c0e897b37956d71e/Assets/BlenderAni/comp12.png" alt="3D Artwork 3" height="200" style="margin: 0 64px 40px 0;">
   </a>
-  <a href="https://github.com/Shashank-Vaibhav/Shashank-Vaibhav/blob/50220456440f329cc6723091daab99882d32837f/comp5.png" target="_blank">
-    <img src="https://github.com/Shashank-Vaibhav/Shashank-Vaibhav/blob/50220456440f329cc6723091daab99882d32837f/comp5.png" alt="3D Artwork 4" width="200">
+  <a href="https://github.com/Shashank-Vaibhav/Shashank-Vaibhav/blob/903271e5445a3693a89b12c2c0e897b37956d71e/Assets/BlenderAni/comp5.png" target="_blank">
+    <img src="https://github.com/Shashank-Vaibhav/Shashank-Vaibhav/blob/903271e5445a3693a89b12c2c0e897b37956d71e/Assets/BlenderAni/comp5.png" alt="3D Artwork 4" height ="200">
   </a>
 </p>
-
 
 **Blender Animation**
-<p>
-  <a href="https://youtube.com/shorts/QEGklzIzVD0" target="_blank">
-    <img src="https://github.com/Shashank-Vaibhav/Shashank-Vaibhav/blob/292825d149316211b101185332df0e5a5af07e2c/final_gif1.gif" alt="Final Cinematic Animation" width="100" height="180" style="border-radius: 16px; border: 2px solid #FF8800; margin: 0 32px 20px 0;">
-  </a>
-  <a href="https://youtube.com/shorts/r7Urw6axd_E?feature=share" target="_blank">
-    <img src="https://github.com/Shashank-Vaibhav/Shashank-Vaibhav/blob/dafe6912a521d06a1b2cc43c1d9b3e221aff2d80/swordSeq1.gif" alt="Sword Sequence 1" width="100" height="180" style="border-radius: 16px; border: 2px solid #FF8800; margin: 0 32px 20px 0;">
-  </a>
-  <a href="https://youtube.com/shorts/rWQBHMZuzCk?feature=share" target="_blank">
-    <img src="https://github.com/Shashank-Vaibhav/Shashank-Vaibhav/blob/67954422c1ea8f2b7637a9f9bcebbfb718518c4f/swordSeq2.gif" alt="Sword Sequence 2" width="100" height="180" style="border-radius: 16px; border: 2px solid #FF8800;">
-  </a>
-</p>
 
 ---
 
 ## 📬 Let’s Connect!
 
 I’m always looking to collaborate on **innovative XR projects** or exciting opportunities. Feel free to reach out!
+
+
 Made with ❤️ by **Shashank Vaibhav**
