@@ -88,26 +88,16 @@ Hi, I’m **Shashank Vaibhav**, a passionate developer specializing in **XR Deve
 ---
 
 ### 🌍 **Seismic-XR: Simulating and Visualizing Seismic Ground Motions in Mixed Reality**  
-> A cutting-edge **Mixed Reality** project that simulates seismic wave propagation and visualizes ground motion dynamics using **SPECFEM3D**, **Unity**, and **Meta Quest**.
+> In this project, we developed an interactive mixed reality experience to visualize seismic wave ground motion and its velocity model. This immersive approach enhances understanding and provides a comprehensive perspective on the impact of seismic activity over large areas, aiding in both research and education using **SPECFEM3D**, **Unity**, and **QGIS**.
 
 #### ✨ **Core Features**  
-##### 🚀 **High-Resolution Terrain Models**  
-- Accurate topography created with **USGS** and **SRTM** data.  
-- Optimized 3D meshes ensure high performance without compromising detail.
+##### 🚀 **High-Resolution Topography Models with USGS and SRTM data**  
 
-##### 🌊 **Seismic Wave Propagation Visualization**  
-- Real-time seismic wave propagation powered by **SPECFEM3D**.  
-- Comprehensive fault slip and stress dynamics visualizations for educational and research applications.
+##### 🌊 **Seismic Wave Propagation Visualization powered by SPECFEM3D**  
 
-##### 🕶️ **Immersive Mixed Reality Experience**  
-- Fully immersive simulations using **Meta Quest** and **XR Interaction Toolkit**.  
-- Intuitive navigation and interactions designed for effortless exploration.
+##### 🕶️ **Immersive Mixed Reality Experience using XR Interacton Toolkit**  
 
-##### ⚡ **Performance Optimization**  
-- Seamlessly optimized VR performance using **LOD (Level of Detail)** techniques.  
-- Baked lighting and advanced rendering ensure smooth interactions.  
-
-
+##### ⚡ **Intuitive Navigation, Interactions and Effortless Exploration**    
 
 #### 📸 **Visual Showcase**  
 
