@@ -81,10 +81,17 @@ Hi, I’m Shashank Vaibhav, a passionate developer specializing in **XR Developm
 - **Client-Authoritative Networking**: Ensures smooth and efficient gameplay with minimal latency.  
 - **Custom VR Prefabs**: Enhanced immersion through synchronized hand gestures and head tracking.  
 
-#### 🔧 **Workflow & Challenges**  
-- **Networking Optimization**: Implemented predictive algorithms to reduce latency and ensure fluid player movements.  
-- **Player Movement Synchronization**: Leveraged **client-authoritative systems** to optimize load balancing and seamless interactions.  
-- **Dynamic Room System**: Created scalable, customizable lobbies for player connections.  
+#### 📸 **Visual Showcase**  
+
+<p align="center">
+  <img src="https://github.com/Shashank-Vaibhav/Shashank-Vaibhav/blob/562f7ca6dd7fb2fd7a56e231d23d2dd18877ccba/Assets/gitHubReadme/ConnectVR/111.gif" alt="Feature 1" width="384" height="216">
+  <img src="https://github.com/Shashank-Vaibhav/Shashank-Vaibhav/blob/562f7ca6dd7fb2fd7a56e231d23d2dd18877ccba/Assets/gitHubReadme/ConnectVR/222.gif" alt="Feature 2" width="384" height="216">
+  <img src="https://github.com/Shashank-Vaibhav/Shashank-Vaibhav/blob/562f7ca6dd7fb2fd7a56e231d23d2dd18877ccba/Assets/gitHubReadme/ConnectVR/333.gif" alt="Feature 3" width="384" height="216">
+  <img src="https://github.com/Shashank-Vaibhav/Shashank-Vaibhav/blob/562f7ca6dd7fb2fd7a56e231d23d2dd18877ccba/Assets/gitHubReadme/ConnectVR/444.gif" alt="Feature 4" width="384" height="216">
+  <img src="https://github.com/Shashank-Vaibhav/Shashank-Vaibhav/blob/562f7ca6dd7fb2fd7a56e231d23d2dd18877ccba/Assets/gitHubReadme/ConnectVR/555.gif" alt="Feature 4" width="384" height="216">
+  <img src="https://github.com/Shashank-Vaibhav/Shashank-Vaibhav/blob/562f7ca6dd7fb2fd7a56e231d23d2dd18877ccba/Assets/gitHubReadme/ConnectVR/666.gif" alt="Feature 4" width="384" height="216">
+  <img src="https://github.com/Shashank-Vaibhav/Shashank-Vaibhav/blob/562f7ca6dd7fb2fd7a56e231d23d2dd18877ccba/Assets/gitHubReadme/ConnectVR/777.gif" alt="Feature 4" width="384" height="216">
+</p>  
 
 [![Explore the VRConnect Repo](https://img.shields.io/badge/Explore-Repository-green?style=for-the-badge&logo=github)](#)
 
