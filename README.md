@@ -107,7 +107,6 @@ Hi, I’m **Shashank Vaibhav**, a passionate developer specializing in **XR Deve
 - Seamlessly optimized VR performance using **LOD (Level of Detail)** techniques.  
 - Baked lighting and advanced rendering ensure smooth interactions.  
 
----
 
 #### 📸 **Visual Showcase**  
 
