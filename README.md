@@ -84,9 +84,10 @@ Hi, I’m Shashank Vaibhav, a passionate developer specializing in **XR Developm
 #### 📸 **Visual Showcase**  
 
 <p align="center">
+  <img src="https://github.com/Shashank-Vaibhav/Shashank-Vaibhav/blob/043b6254433c732140f1729965b4f4bfe93bf22e/Assets/gitHubReadme/ConnectVR/vlcsnap-2024-11-25-02h42m37s915.png" alt="Feature 4" width="384" height="216">
   <img src="https://github.com/Shashank-Vaibhav/Shashank-Vaibhav/blob/562f7ca6dd7fb2fd7a56e231d23d2dd18877ccba/Assets/gitHubReadme/ConnectVR/111.gif" alt="Feature 1" width="384" height="216">
   <img src="https://github.com/Shashank-Vaibhav/Shashank-Vaibhav/blob/562f7ca6dd7fb2fd7a56e231d23d2dd18877ccba/Assets/gitHubReadme/ConnectVR/222.gif" alt="Feature 2" width="384" height="216">
-  <img src="https://github.com/Shashank-Vaibhav/Shashank-Vaibhav/blob/562f7ca6dd7fb2fd7a56e231d23d2dd18877ccba/Assets/gitHubReadme/ConnectVR/333.gif" alt="Feature 3" width="384" height="216">
+  <img src="https://github.com/Shashank-Vaibhav/Shashank-Vaibhav/blob/043b6254433c732140f1729965b4f4bfe93bf22e/Assets/gitHubReadme/ConnectVR/vlcsnap-2024-11-25-02h42m21s001.png" alt="Feature 3" width="384" height="216">
   <img src="https://github.com/Shashank-Vaibhav/Shashank-Vaibhav/blob/562f7ca6dd7fb2fd7a56e231d23d2dd18877ccba/Assets/gitHubReadme/ConnectVR/444.gif" alt="Feature 4" width="384" height="216">
   <img src="https://github.com/Shashank-Vaibhav/Shashank-Vaibhav/blob/562f7ca6dd7fb2fd7a56e231d23d2dd18877ccba/Assets/gitHubReadme/ConnectVR/555.gif" alt="Feature 4" width="384" height="216">
   <img src="https://github.com/Shashank-Vaibhav/Shashank-Vaibhav/blob/562f7ca6dd7fb2fd7a56e231d23d2dd18877ccba/Assets/gitHubReadme/ConnectVR/666.gif" alt="Feature 4" width="384" height="216">
