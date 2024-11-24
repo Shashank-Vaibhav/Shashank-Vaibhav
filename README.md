@@ -46,10 +46,9 @@ Hi, I’m **Shashank Vaibhav**, a passionate developer specializing in **XR Deve
 
 
 
-- **Programming Languages:** C#, C/C++  
+- **Programming Languages:** C#, C/C++ , Python
 - **Development:** Unity, Unreal Engine
 - **Design & Visualization:** Blender, Adobe Creative Cloud, Figma  
-- **Geophysical Simulations:** SPECFEM3D 
 
 ---
 
