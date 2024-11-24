@@ -68,67 +68,69 @@ Hi, I’m **Shashank Vaibhav**, a passionate developer specializing in **XR Deve
 
 ---
 
-## 🏗️ Projects
+## 🏗️ Projects  
 
-### 🕹️ VRConnect: Real-Time Multiplayer Interaction in VR
-> A multiplayer VR game enabling synchronized real-time movements, hand gestures, and interactions using **Unity Netcode**.
+### 🕹️ **VRConnect: Real-Time Multiplayer Interaction in VR**  
+> An engaging multiplayer VR experience designed to enable synchronized real-time interactions using **Unity Netcode** and **XR Interaction Toolkit**.
 
-#### ✨ Features:
-- **Real-Time Synchronization**: Hand and head movements mirrored across clients.
-- **Client-Authoritative System**: Smooth multiplayer experience.
-- **Custom VR Prefabs**: Synchronized hand and head movements for enhanced immersion.
+#### ✨ **Key Features**  
+- **Real-Time Synchronization**: Accurately mirrors hand and head movements across all connected players.  
+- **Client-Authoritative Networking**: Ensures smooth and efficient gameplay with minimal latency.  
+- **Custom VR Prefabs**: Enhanced immersion through synchronized hand gestures and head tracking.  
 
-#### 🔧 Workflow & Challenges:
-- **Networking Optimization**: Reduced latency using prediction algorithms to smooth out movements across clients.
-- **Player Movement Synchronization**: Used client-authoritative networking to balance load and ensure seamless movement in VR.
+#### 🔧 **Workflow & Challenges**  
+- **Networking Optimization**: Implemented predictive algorithms to reduce latency and ensure fluid player movements.  
+- **Player Movement Synchronization**: Leveraged **client-authoritative systems** to optimize load balancing and seamless interactions.  
+- **Dynamic Room System**: Created scalable, customizable lobbies for player connections.  
 
-[Explore the VRConnect Repo](#)
-
----
-
-# 🌍 Seismic-XR: Simulating and Visualizing Seismic Ground Motions in Mixed Reality  
-> A **Mixed Reality** project simulating seismic wave propagation using **SPECFEM3D** and visualizing ground motions with **Unity** and **Meta Quest**.
+[![Explore the VRConnect Repo](https://img.shields.io/badge/Explore-Repository-green?style=for-the-badge&logo=github)](#)
 
 ---
 
-## ✨ Features  
-### 🚀 **High-Resolution Terrain Models**  
-- Built using **USGS** and **SRTM** data for precise 3D topography.  
-- Optimized meshes ensure realistic terrain with balanced performance and visual fidelity.
+### 🌍 **Seismic-XR: Simulating and Visualizing Seismic Ground Motions in Mixed Reality**  
+> A cutting-edge **Mixed Reality** project that simulates seismic wave propagation and visualizes ground motion dynamics using **SPECFEM3D**, **Unity**, and **Meta Quest**.
 
-### 🌊 **Seismic Wave Propagation**  
-- Real-time simulation of seismic wave propagation powered by **SPECFEM3D**.  
-- Includes realistic fault slip and stress dynamics visualizations.
+#### ✨ **Core Features**  
+##### 🚀 **High-Resolution Terrain Models**  
+- Accurate topography created with **USGS** and **SRTM** data.  
+- Optimized 3D meshes ensure high performance without compromising detail.
 
-### 🕶️ **Immersive Mixed Reality Experience**  
-- Dive into interactive seismic simulations using **Meta Quest** for a hands-on learning experience.  
-- **XR Interaction Toolkit 3.0** integration for intuitive navigation and exploration.
+##### 🌊 **Seismic Wave Propagation Visualization**  
+- Real-time seismic wave propagation powered by **SPECFEM3D**.  
+- Comprehensive fault slip and stress dynamics visualizations for educational and research applications.
 
-### ⚡ **MR-Ready Performance**  
-- Enhanced VR experience with **LOD (Level of Detail)** techniques and baked lighting.  
-- Smooth rendering ensures seamless interactions in the virtual environment.
+##### 🕶️ **Immersive Mixed Reality Experience**  
+- Fully immersive simulations using **Meta Quest** and **XR Interaction Toolkit**.  
+- Intuitive navigation and interactions designed for effortless exploration.
 
----
+##### ⚡ **Performance Optimization**  
+- Seamlessly optimized VR performance using **LOD (Level of Detail)** techniques.  
+- Baked lighting and advanced rendering ensure smooth interactions.  
 
-## 📸 Visual Showcase  
+
+
+#### 📸 **Visual Showcase**  
+
 <p align="center">
-  <img src="https://via.placeholder.com/200" alt="Feature 1" width="200">
-  <img src="https://via.placeholder.com/200" alt="Feature 2" width="200">
-  <img src="https://via.placeholder.com/200" alt="Feature 3" width="200">
-  <img src="https://via.placeholder.com/200" alt="Feature 4" width="200">
-</p>
----
+  <img src="https://github.com/Shashank-Vaibhav/Shashank-Vaibhav/blob/7b1bcf9e9d8a78dfe983751a3488c85c6324156d/Assets/ResizedGifs2/2.gif" alt="Feature 1" width="384" height="216">
+  <img src="https://github.com/Shashank-Vaibhav/Shashank-Vaibhav/blob/7b1bcf9e9d8a78dfe983751a3488c85c6324156d/Assets/ResizedGifs2/3.gif" alt="Feature 2" width="384" height="216">
+  <img src="https://github.com/Shashank-Vaibhav/Shashank-Vaibhav/blob/7b1bcf9e9d8a78dfe983751a3488c85c6324156d/Assets/ResizedGifs2/4.gif" alt="Feature 3" width="384" height="216">
+  <img src="https://github.com/Shashank-Vaibhav/Shashank-Vaibhav/blob/7b1bcf9e9d8a78dfe983751a3488c85c6324156d/Assets/ResizedGifs2/5.gif" alt="Feature 4" width="384" height="216">
+</p>  
 
-## 🔧 Workflow & Challenges  
-- **Terrain Modeling**: Developed high-resolution, optimized 3D terrain models, balancing performance and visual fidelity.  
-- **Seismic Data Integration**: Imported seismic wave simulation data from **SPECFEM3D** for accurate visualizations.  
+[![YouTube Video](https://img.shields.io/badge/YouTube-Watch%20Demo-red?style=for-the-badge&logo=youtube)](https://youtu.be/aJrw8ewi298?feature=shared)
 
----
 
-## 🔗 Explore the Repository  
+<a href="https://youtu.be/aJrw8ewi298?feature=shared">
+  <img src="https://github.com/Shashank-Vaibhav/Shashank-Vaibhav/blob/e64fd1bc652708575109bc9a801bcf84418ec972/Assets/ResizedGifs2/1.gif" alt="SeismicXR Demo" width="384" height="216" style="border-radius: 15px; border: 2px solid #FF8800;">
+</a>  
+
+
+#### 🔗 **Explore the Repository**  
 [![GitHub](https://img.shields.io/badge/GitHub-Explore%20Seismic--XR-blue?style=for-the-badge&logo=github)](https://github.com/Shashank-Vaibhav/SeismicXR)
 
 ---
+
 
 ## 🎥 **My Creative Work**
 
@@ -190,3 +192,4 @@ I also explore the creative side of XR technology through **3D animation and mod
 ## 📬 Let’s Connect!
 
 I’m always looking to collaborate on **innovative XR projects** or exciting opportunities. Feel free to reach out!
+Made with ❤️ by **Shashank Vaibhav**
