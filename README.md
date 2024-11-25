@@ -102,13 +102,13 @@ Hi, I’m Shashank Vaibhav, a passionate developer specializing in **XR Developm
 > In this project, we developed an interactive mixed reality experience to visualize seismic wave ground motion and its velocity model of Himalayan Region. This immersive approach enhances understanding and provides a comprehensive perspective on the impact of seismic activity over large areas, aiding in both research and education, using **SPECFEM3D**, **Unity**, and **QGIS**.
 
 #### ✨ **Core Features**  
-🚀 **High-Resolution Topography Models of Himalayan region with USGS and SRTM data**  
+🚀 High-Resolution Topography Models of Himalayan region with USGS and SRTM data 
 
-🌊 **Seismic Wave Propagation Visualization powered by SPECFEM3D**  
+🌊 Seismic Wave Propagation Visualization powered by SPECFEM3D
 
-🕶️ **Immersive Mixed Reality Experience using XR Interacton Toolkit**  
+🕶️ Immersive Mixed Reality Experience using XR Interacton Toolkit
 
-⚡ **Intuitive Navigation, Interactions and Effortless Exploration**    
+⚡ Intuitive Navigation, Interactions and Effortless Exploration
 
 #### 📸 **Visual Showcase**  
 
